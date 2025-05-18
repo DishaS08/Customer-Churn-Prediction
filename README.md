@@ -27,7 +27,6 @@ customer-churn-prediction/
 ├── model.pkl               # Trained ML model
 ├── Scaler.pkl              # StandardScaler object
 ├── customer_churn_data.csv # Sample dataset
-├── requirements.txt        # Python dependencies
 └── README.md               # This file
 ```
 
@@ -37,7 +36,7 @@ customer-churn-prediction/
 
 - **Python**
 - **Scikit-learn** – Model training
-- **Pandas & NumPy** – Data processing
+- **Pandas** – Data processing
 - **Streamlit** – Web app
 - **Joblib** – Model and scaler serialization
 - **Imbalanced-learn** – (Optional) Handling imbalanced data
@@ -117,15 +116,3 @@ streamlit run app.py
 
 ---
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙋‍♀️ Author
-
-**Disha Tejnath Suryawanshi**  
-📧 [Your Email]  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🌐 [Portfolio or GitHub](https://github.com/yourusername)
