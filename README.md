@@ -100,6 +100,10 @@ streamlit run app.py
 
 ---
 
+![image](https://github.com/user-attachments/assets/582f17b9-2464-43aa-98bc-b870308a24ab)
+
+---
+
 ## 📌 Notes
 
 - Ensure `model.pkl` and `Scaler.pkl` are in the same directory as `app.py`
