@@ -100,7 +100,10 @@ streamlit run app.py
 
 ---
 
-![image](https://github.com/user-attachments/assets/582f17b9-2464-43aa-98bc-b870308a24ab)
+<img width="1684" height="851" alt="image" src="https://github.com/user-attachments/assets/2c58ebfb-ac46-4419-a1d8-4cd60f818e96" />
+<img width="1394" height="859" alt="image" src="https://github.com/user-attachments/assets/702e5a2d-7fcc-41cd-9047-c6012864bb78" />
+
+
 
 ---
 
